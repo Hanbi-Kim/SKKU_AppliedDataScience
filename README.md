@@ -11,6 +11,6 @@ PPT: [자료보기](https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob/
 Code: [자료보기](https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob/main/ADS5006_%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%ED%8A%B9%EB%A1%A0/ADS5006_%EA%B8%B0%EB%A7%90%EA%B3%BC%EC%A0%9C_%EB%B6%80%EC%A0%95%EB%A7%A5%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0_%EA%B9%80%ED%95%9C%EB%B9%84.ipynb)<br/>
 
 ## ADS5037 강화학습 기말과제
-연구주제: [Deep Q-Learning from Demonstration](https://arxiv.org/abs/1704.03732) 논문을 리뷰하고 해당 논문에서 기술된 DQfD를 GYM에서 제공하는 Cartpole-v1 모델에 적용하여 학습해보기.<br/>
+연구주제: [Deep Q-Learning from Demonstration](https://arxiv.org/pdf/1704.03732.pdf) 논문을 리뷰하고 해당 논문에서 기술된 DQfD를 GYM에서 제공하는 Cartpole-v1 모델에 적용하여 학습해보기.<br/>
 PPT: [자료보기](https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob/main/ADS5037_%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5/ADS5037_%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5_%EA%B8%B0%EB%A7%90%EA%B3%BC%EC%A0%9C_%EA%B9%80%ED%95%9C%EB%B9%84.pdf)<br/>
 Code: [자료보기](https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob/main/ADS5037_%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5/agent_1.py)<br/>
