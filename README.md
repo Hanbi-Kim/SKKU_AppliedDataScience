@@ -2,7 +2,7 @@
 
 ## 1. 과제 및 프로젝트 정리
 ### ADS5004 데이터분석언어 기말과제 
-연구주제: 기상청의 날씨 데이터를 이용하여 당일 미세먼지 농도에 영향을 미치는 요인을 살펴보고, 다음 날 미세먼지 농도를 예측하는 머신러닝 모델 개발<br/>
+연구주제: 기상청의 날씨 데이터를 이용하여 당일 미세먼지 농도에 영향을 미치는 요인을 살펴보고, 다음 날 미세먼지 농도를 예측하는 머신러닝 모델 알고리즘 비교<br/>
 PPT: [자료보기](https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob/main/ADS5004_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%96%B8%EC%96%B4/ADS5004_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%96%B8%EC%96%B4_%EA%B8%B0%EB%A7%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)<br/>
 Code: [자료보기](https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob/main/ADS5004_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%96%B8%EC%96%B4/ADS5004_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%96%B8%EC%96%B4_%EA%B8%B0%EB%A7%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb)<br/>
 
