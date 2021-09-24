@@ -23,7 +23,7 @@ Code: [자료보기](https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob
 1. K - Nearest Neighbours <[Iris](https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob/main/ADS5006_%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%ED%8A%B9%EB%A1%A0/Iris_KNN.ipynb): Iris 세 가지 종을 KNN통해 분류>
 2. Linear Regression
 3. Logistic Regression
-4. Naive Bayesian <[Tennis](https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob/main/ADS5006_%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%ED%8A%B9%EB%A1%A0/ADS5006_Tennis_GNB.ipynb) 주어진 날씨데이터에 테니스를 할지 안할지 결정>
+4. Naive Bayesian <[Tennis](https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob/main/ADS5006_%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%ED%8A%B9%EB%A1%A0/ADS5006_Tennis_GNB.ipynb): 주어진 날씨데이터에 테니스를 할지 안할지 결정>
 5. Support Vector Machine
 6. Decision Tree
 7. Clustering
