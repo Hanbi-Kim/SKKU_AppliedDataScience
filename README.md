@@ -1,4 +1,4 @@
-# 성균관대학교 데이터사이언스융합과 석사과정 <br/><br/>
+# SUNGKYUNKWAN University M.S Applied Data Science Projects/Assignments List <br/><br/>
 
 ## 1. 과제 및 프로젝트 정리
 ### ADS5004 데이터분석언어 기말과제 
