@@ -12,12 +12,12 @@ Project Title: Comparing some machine learning model performance on detecting VF
 [See Codes(KR)](https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob/main/ADS5006_%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%ED%8A%B9%EB%A1%A0/ADS5006_%EA%B8%B0%EB%A7%90%EA%B3%BC%EC%A0%9C_%EB%B6%80%EC%A0%95%EB%A7%A5%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0_%EA%B9%80%ED%95%9C%EB%B9%84.ipynb)<br/>
 
 ### ADS5018 Applied Data Analysis
-- Predict Bitcoin price whether price will go up or down based on the past price information.<br/>
+Predict Bitcoin price whether price will go up or down based on the past price information.<br/>
 [See Report(ENG)](
 https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob/main/ADS5018_%EC%9D%91%EC%9A%A9%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/BTC%20Time%20Series%20Analysis%20with%20Machine%20Learning.pdf)
 
 ### ADS5034 Computer Vision
-- Image Transformation / Linear Filter / Gaussian Pyramids / Median BLur<br/>
+Image Transformation / Linear Filter / Gaussian Pyramids / Median BLur<br/>
 [See Codes(KR)](
 https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob/main/ADS5034_%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84/ADS5034_Homework01/ADS5034_Homework01.ipynb)
 
