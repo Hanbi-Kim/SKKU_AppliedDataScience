@@ -30,7 +30,7 @@ https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob/main/ADS5034_%EC%BB%
 <br/><br/>
 
 ### ADS5037 Reinforcement Learning
-Reviewing journal, [Deep Q-Learning from Demonstration](https://arxiv.org/pdf/1704.03732.pdf) and apply theroy to python library Cartpole-V1.<br/><br/>
+Reviewing journal, [Deep Q-Learning from Demonstration](https://arxiv.org/pdf/1704.03732.pdf) and apply theroy to python library Cartpole-V1.<br/>
 [PPR(KR)](https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob/main/ADS5037_%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5/ADS5037_%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5_%EA%B8%B0%EB%A7%90%EA%B3%BC%EC%A0%9C_%EA%B9%80%ED%95%9C%EB%B9%84.pdf)   |
 [Codes(KR)](https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob/main/ADS5037_%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5/agent_1.py)<br/>
 <br/>
