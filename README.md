@@ -20,10 +20,10 @@ Code: [자료보기](https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob
 
 
 ## 2. 수업내용 및 관련 코드 정리
-### ADS5006 기계학습특론. 
+### ADS5006 기계학습특론
 - K - Nearest Neighbours <[Iris](https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob/main/ADS5006_%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%ED%8A%B9%EB%A1%A0/Iris_KNN.ipynb): Iris 세 가지 종을 KNN통해 분류>
 - Naive Bayesian <[Tennis](https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob/main/ADS5006_%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%ED%8A%B9%EB%A1%A0/ADS5006_Tennis_GNB.ipynb): 주어진 날씨데이터에 테니스를 할지 안할지 결정>
 
-### ADS5034 컴퓨터비전. 
+### ADS5034 컴퓨터비전
 - Image Transformation / Linear Filter / Gaussian Pyramids / Median BLur <[코드보기](
 https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob/main/ADS5034_%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84/ADS5034_Homework01/ADS5034_Homework01.ipynb)>
