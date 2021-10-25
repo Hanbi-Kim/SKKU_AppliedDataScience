@@ -24,8 +24,7 @@ https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob/main/ADS5018_%EC%9D%
 
 ### ADS5019 Deep Learning
 Survey Report: Semi-Supervised Learning in Image Classification.<br/>
-[Report(ENG)](
-https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob/main/ADS5018_%EC%9D%91%EC%9A%A9%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/BTC%20Time%20Series%20Analysis%20with%20Machine%20Learning.pdf)
+[Report(ENG)](https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob/main/ADS5019_%EB%94%A5%EB%9F%AC%EB%8B%9D/Survey%20Report%20-%20Semi%20Supervised%20Learning%20in%20Image%20Classification.pdf)
 
 <br/><br/>
 
