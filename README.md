@@ -6,14 +6,6 @@ Survey Report: Semi-Supervised Learning in Image Classification.<br/>
 
 <br/><br/>
 
-### ADS5034 Computer Vision
-Image Transformation / Linear Filter / Gaussian Pyramids / Median Blur<br/>
-[Codes(KR)](
-https://github.com/Hanbi-Kim/SKKU-Applied-Data-Science/blob/main/ADS5034_%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84/ADS5034_Homework01/ADS5034_Homework01.ipynb)
-
-<br/><br/>
-
-
 ## 2nd Semester
 ### ADS5006 Machine Learning 
 Comparing some machine learning model performance on detecting VF/VT(Heart Diseaes) by ECG leads data set.<br/>
